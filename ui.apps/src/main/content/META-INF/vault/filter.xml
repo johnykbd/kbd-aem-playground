@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/kbd/clientlibs"/>
+    <filter root="/apps/kbd/components"/>
+    <filter root="/apps/kbd/i18n"/>
+</workspaceFilter>
